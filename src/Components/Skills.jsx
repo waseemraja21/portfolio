@@ -12,7 +12,7 @@ function Skills() {
       </div>
 
       <div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4  items-center justify-center">
-        <div className="bg-custom-gray border border-gray-300 m-3 text-center">
+        <div className="bg-custom-gray transition-transform transform hover:scale-105 hover:border-black border border-gray-300 m-3 text-center">
           <h3 className="text-custom-blue font-semibold text-center">
             Web Design
           </h3>
@@ -21,7 +21,7 @@ function Skills() {
             as I can give layout to my imagination.
           </p>
         </div>
-        <div className="bg-custom-gray p-4 border border-gray-300 m-3 text-center">
+        <div className="bg-custom-gray p-4 transition-transform transform hover:scale-105 hover:border-black border border-gray-300 m-3 text-center">
           <h3 className="text-custom-blue font-semibold text-center">
             Web Development
           </h3>
@@ -30,7 +30,7 @@ function Skills() {
             experience in it as well.
           </p>
         </div>
-        <div className="bg-custom-gray p-4 border border-gray-300 m-3 text-center">
+        <div className="bg-custom-gray p-4 transition-transform transform hover:scale-105 hover:border-black border border-gray-300 m-3 text-center">
           <h3 className="text-custom-blue font-semibold text-center">
             Problem Solving
           </h3>
