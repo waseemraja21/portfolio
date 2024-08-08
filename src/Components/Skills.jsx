@@ -1,8 +1,6 @@
 import React from "react";
 
 function Skills() {
-  const isLargeScreen = window.innerWidth >= 1024; // Assuming lg breakpoint is 1024px
-
   return (
     <div className="bg-white min-h-screen">
       <div className="flex flex-col py-4 items-center">
