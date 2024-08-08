@@ -14,7 +14,7 @@ function About() {
         <p
           className={`flex-1 ${
             isLargeScreen ? "text-left" : "text-center"
-          } font-light   px-3 text-gray-700`}
+          } font-light   px-3 text-gray-700 mx-4`}
         >
           Hi, I am a Full Stack Web Developer and Web Designer. An Open Source
           enthusiast and a Computer Science graduate from India. I am passionate
